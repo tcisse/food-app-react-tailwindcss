@@ -2,7 +2,7 @@ import React from "react";
 import { categories } from "../data/data.js";
 
 export default function Category() {
-  console.log(categories);
+  // console.log(categories);
   return (
     <div className="max-w-[1460px] m-auto px-4 py-12">
       <h1 className="text-orange-600 font-bold text-4xl text-center">
